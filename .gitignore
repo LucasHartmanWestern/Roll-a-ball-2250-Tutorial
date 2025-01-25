@@ -1,8 +1,7 @@
 .idea
 .vs
-Library/
-Build/
-Logs/
-obj/
-Packages/
-Temp/
+/Build
+/Logs
+/obj
+/Packages
+/Temp
